@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "247d546d58a107b6",
+        "id": "3eaf053fb413e564",
         "type": "tabs",
         "children": [
           {
-            "id": "097023547d4ad36b",
+            "id": "3ecd00a41e928a6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-03-31 14.24.00.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-31 14.24.00.excalidraw"
+            }
+          },
+          {
+            "id": "6b3ab5cf9d7c701a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-31 16.30.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-31 16.30.25.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "Excalidraw/Drawing 2026-03-31 16.30.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "Backlinks for Drawing 2026-03-31 16.30.25.excalidraw"
             }
           },
           {
@@ -174,6 +185,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d51bb1bde8c35913",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-31 16.30.25.excalidraw.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Drawing 2026-03-31 16.30.25.excalidraw"
+            }
           }
         ],
         "currentTab": 5
@@ -184,24 +207,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c7d53ae719ae2de",
+  "active": "7e2f4123d154ca91",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-03-24 17.39.53.excalidraw.md",
-    "欢迎.md",
+    "Excalidraw/Drawing 2026-03-31 14.24.00.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-31 16.30.25.excalidraw.md",
     "Excalidraw",
-    "未命名",
+    "AgentMemory/未命名.canvas",
+    "欢迎.md",
+    "AgentMemory",
+    "Excalidraw/Drawing 2026-03-24 17.39.53.excalidraw.md",
     "未命名.base",
     "未命名 1.canvas",
     "未命名.canvas",
